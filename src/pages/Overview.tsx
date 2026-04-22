@@ -18,7 +18,7 @@ export default function Overview() {
           <OverviewBody />
           <div className="pt-4">
             <button
-              onClick={openModal}
+              onClick={() => openModal()}
               className="inline-flex items-center gap-2 px-8 py-4 glass-gradient text-white rounded-full font-semibold text-lg shadow-lg shadow-[#005bbf]/20 hover:shadow-xl hover:shadow-[#005bbf]/30 active:scale-95 transition-all group"
             >
               <Plus
