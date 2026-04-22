@@ -1,6 +1,8 @@
 Task Management Dashboard
     A responsive task management application built with React and TypeScript. This dashboard allows users to efficiently organize their daily tasks with full CRUD functionality, state persistence, and status tracking.
 
+Host :- Hosted it on netlify. It can directly be accessed by https://sprytaskmanager.netlify.app/
+
 Features :-
 - Task Management: Full Create, Read, Update, and Delete (CRUD) operations.
 - Persistent Storage: Uses localStorage to ensure your tasks remain available even on page refresh
